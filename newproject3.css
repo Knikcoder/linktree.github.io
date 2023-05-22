@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: rgb(124, 217, 235);
+    background: #E2D1F9;
 }
 .profiledetails{
     text-align: center;
@@ -15,7 +15,7 @@
     align-items: center;   
 }
 .linktree input, .resumedetails input, .Blogdetails input,.Business input{
-    background: violet;
+    background: #317773;
     font-size: large;
     width: 300px;
     height:35px;
