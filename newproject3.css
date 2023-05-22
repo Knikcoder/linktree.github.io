@@ -1,0 +1,37 @@
+.whole{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(124, 217, 235);
+}
+.profiledetails{
+    text-align: center;
+}
+.linktree{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+}
+.linktree input, .resumedetails input, .Blogdetails input,.Business input{
+    background: violet;
+    font-size: large;
+    width: 300px;
+    height:35px;
+    text-align: center;
+    border-radius: 20px;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+}
+.linktree input{
+    margin: 8px 0;
+}
+.credits{
+    margin-top: 10px;
+    font-size: 20px;
+    color: brown;
+}
